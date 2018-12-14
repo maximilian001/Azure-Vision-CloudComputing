@@ -22,7 +22,7 @@
             <RowDefinition Height="Auto"/>
         </Grid.RowDefinitions>
         <DockPanel Grid.Row="0" Grid.Column="0" Grid.ColumnSpan="2" Background="AliceBlue">
-            <TextBlock x:Name="SampleNameLabel" Text="{Binding ElementName=SampleScenariosUserControl, Path=SampleTitle}" HorizontalAlignment="Center" VerticalAlignment="Center" Margin="5, 0, 0, 0" FontSize="26"/>
+            <TextBlock x:Name="SampleNameLabel" Text="Cloud Computing FST - Bamesberger, Botros, Dick, Herout" HorizontalAlignment="Center" VerticalAlignment="Center" Margin="5, 0, 0, 0" FontSize="26"/>
         </DockPanel>
         <StackPanel Orientation="Vertical" Grid.Row="1" Grid.RowSpan="2" Grid.Column="0">
             <StackPanel.Background>

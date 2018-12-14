@@ -6,6 +6,6 @@
         Title="Azure Vision APP - Fallstudie 2k18" MinHeight="768" Height="768" MinWidth="1280" Width="1280" WindowStyle="ThreeDBorderWindow" WindowState="Normal" FontFamily="Segoe UI Regular" FontSize="14" Margin="0">
     <Grid>
         <sampleUtil:SampleScenarios x:Name="_scenariosControl" SampleTitle="Cloud Computing FST - Bamesberger, Botros, Dick, Herout" Loaded="_scenariosControl_Loaded"/>
-        <Label Padding="25" FontWeight="Bold">Cloud Computing FST - Bamesberger, Botros, Dick, Herout</Label>
+        
     </Grid>
 </Window>

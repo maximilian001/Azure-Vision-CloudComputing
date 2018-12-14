@@ -4,16 +4,16 @@
 winexe
 C#
 .cs
-C:\Users\max.dick\Documents\__FST-APP\Azur-APP-Git\Sample-WPF\obj\Debug\
+C:\Users\max.dick\Documents\__FST-APP\Azur-APP-Git\Azure-Vision-CloudComputing\Sample-WPF\obj\Debug\
 ClientLibrary
 none
 false
 DEBUG;TRACE
-C:\Users\max.dick\Documents\__FST-APP\Azur-APP-Git\Sample-WPF\App.xaml
+C:\Users\max.dick\Documents\__FST-APP\Azur-APP-Git\Azure-Vision-CloudComputing\Sample-WPF\App.xaml
 6718802836
 
 10-665826481
-7390037027
+73-1504809379
 Controls\FaceIdentificationPage.xaml;Controls\FaceFindSimilarPage.xaml;Controls\FaceGroupingPage.xaml;Controls\FaceVerificationPage.xaml;Controls\FaceDetectionPage.xaml;MainWindow.xaml;
 
 False
